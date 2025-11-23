@@ -1,1 +1,1 @@
-"Line A" 
+"Line A from branch2" 
