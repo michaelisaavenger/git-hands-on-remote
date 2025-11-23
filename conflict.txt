@@ -1,1 +1,2 @@
 "Line A from branch1" 
+"Line A from branch2" 
