@@ -1,0 +1,4 @@
+"Base" 
+"Feature A" 
+"Main 2" 
+"Feature after conflict base" 
